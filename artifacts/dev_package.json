@@ -1,13 +1,13 @@
 {
-	"id": "f9541316-cd59-44d4-8db9-56474572d7de",
-	"createdAt": "2024-08-19T12:41:30.651Z",
+	"id": "4f320ef6-8fef-482f-83d9-6c88c0181b23",
+	"createdAt": "2024-08-28T10:10:31.251Z",
 	"createdBy": "admin",
 	"git": {
-		"remote": "https://github.com/klevinb/empty-123.git"
+		"remote": "https://github.com/klevinb/empty-123"
 	},
-	"name": "new package",
+	"name": "test123",
 	"description": null,
-	"ver": "24.08.19.1441",
+	"ver": "24.08.28.1211",
 	"enableCICD": true,
 	"excludeTemplateFiles": false,
 	"roles": [],
