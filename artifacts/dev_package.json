@@ -1,13 +1,13 @@
 {
-	"id": "4f320ef6-8fef-482f-83d9-6c88c0181b23",
-	"createdAt": "2024-08-28T10:10:31.251Z",
+	"id": "4ffeb878-65ed-4193-ac5d-9d5871d5603a",
+	"createdAt": "2024-08-28T13:25:15.245Z",
 	"createdBy": "admin",
 	"git": {
-		"remote": "https://github.com/klevinb/empty-123"
+		"remote": "https://github.com/klevinb/empty-123.git"
 	},
-	"name": "test123",
+	"name": "klevin1",
 	"description": null,
-	"ver": "24.08.28.1349",
+	"ver": "24.08.28.1526",
 	"enableCICD": true,
 	"excludeTemplateFiles": false,
 	"roles": [],
