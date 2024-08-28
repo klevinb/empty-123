@@ -7,7 +7,7 @@
 	},
 	"name": "test123",
 	"description": null,
-	"ver": "24.08.28.1211",
+	"ver": "24.08.28.1349",
 	"enableCICD": true,
 	"excludeTemplateFiles": false,
 	"roles": [],
