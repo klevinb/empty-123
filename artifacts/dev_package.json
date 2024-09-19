@@ -1,16 +1,14 @@
 {
-	"id": "4ffeb878-65ed-4193-ac5d-9d5871d5603a",
-	"createdAt": "2024-08-28T13:25:15.245Z",
+	"id": "7a71baa7-18d6-4aec-8544-2d0a64d4f897",
+	"createdAt": "2024-09-19T06:58:13.000Z",
 	"createdBy": "admin",
 	"git": {
-		"remote": "https://github.com/klevinb/empty-123.git"
+		"remote": "https://github.com/klevinb/empty-123"
 	},
-	"name": "klevin1",
+	"name": "klevin_test",
 	"description": null,
-	"ver": "24.08.28.1526",
+	"ver": "24.09.19.0910",
 	"enableCICD": true,
-	"excludeTemplateFiles": false,
-	"roles": [],
 	"apps": [],
 	"api": [],
 	"odataSource": [],
@@ -31,7 +29,13 @@
 	"role": [],
 	"systems": [],
 	"doc": [],
-	"wf_notifications": [],
+	"wf_notifications": [
+		{
+			"id": "bddb7827-8890-4cb7-9194-69912a2eef12",
+			"name": "test/test",
+			"description": null
+		}
+	],
 	"department": [],
 	"script_scheduler": [],
 	"wf_definition": [],
